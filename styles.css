@@ -1,6 +1,6 @@
 .header {
   text-align: center;
-  background-color: #53A863 !important;
+  background-color: #395AA6 !important;
   color: #fff;
 
   min-height: 100px !important;
@@ -15,7 +15,7 @@ h4 {
 }
 html, body {
   font-family: arial, Helvetica, sans-serif;
-  background-color: #8EE79F;
+  background-color: #7194E3;
   min-height: 100%;
 }
 
@@ -25,7 +25,7 @@ html, body {
   padding-bottom: 150px;
   text-align: center;
   min-height: 0;
-  background-color: #8EE79F
+  background-color: #7194E3
 }
 
 .hint-container {
@@ -33,12 +33,12 @@ html, body {
   padding-top: 0;
   padding-bottom: 150px;
   min-height: 0;
-  background-color: #8EE79F
+  background-color: #7194E3
 }
 
 .footer {
   text-align: center;
-  background-color: #3D5F44;
+  background-color: #173985;
   color: #fff;
   padding: 20px;
   min-height: 50px;
@@ -49,7 +49,7 @@ html, body {
 }
 .footer-container {
   text-align: center;
-  background-color: #3D5F44;
+  background-color: #173985;
   color: #fff;
   padding-top: 2.5rem;
   padding: 20px;
